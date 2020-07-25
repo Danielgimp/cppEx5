@@ -1,0 +1,3 @@
+C:/Users/jamsc/CLionProjects/Ex5/cmake-build-debug/CMakeFiles/untitled11.dir
+C:/Users/jamsc/CLionProjects/Ex5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jamsc/CLionProjects/Ex5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

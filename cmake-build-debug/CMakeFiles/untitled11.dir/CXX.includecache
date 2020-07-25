@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jamsc/CLionProjects/Ex5/Demo.cpp
+iostream
+-
+vector
+-
+range.hpp
+C:/Users/jamsc/CLionProjects/Ex5/range.hpp
+accumulate.hpp
+C:/Users/jamsc/CLionProjects/Ex5/accumulate.hpp
+filterfalse.hpp
+C:/Users/jamsc/CLionProjects/Ex5/filterfalse.hpp
+compress.hpp
+C:/Users/jamsc/CLionProjects/Ex5/compress.hpp
+
+C:/Users/jamsc/CLionProjects/Ex5/accumulate.hpp
+
+C:/Users/jamsc/CLionProjects/Ex5/compress.hpp
+
+C:/Users/jamsc/CLionProjects/Ex5/filterfalse.hpp
+iostream
+-
+vector
+-
+
+C:/Users/jamsc/CLionProjects/Ex5/range.hpp
+iostream
+-
+
